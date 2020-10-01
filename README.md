@@ -1,17 +1,8 @@
-# flutterWidgets
+Desafio proposto na cadeira de Desenvolvimento de Sistemas Móveis pelo Prof. Ramon!
 
-A new Flutter project.
+> <img src=https://i.imgur.com/ENAVFyX.png height="650" width="300">
 
-## Getting Started
+Usei [ESSA](https://pub.dev/packages/badges) depêndencia pra colocar o badge de notificações no ícone de "comentários".
+Nessa prática usei apenas componentes stateless pra criar o layout. A ideia, mais pra frente, é criar cards de cadeiras que recebam um valor e afins.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutterWidgets
+:)
